@@ -35,7 +35,7 @@ namespace MagneticSuspension
        bool isBJControl = false;
  
        uint motorDevIndex = 0;
-       uint motorCANIndex = 0;
+       uint motorCANIndex = 1;
 
        uint magnDevIndex = 0;
        uint magnCANIndex = 0;
@@ -587,7 +587,7 @@ namespace MagneticSuspension
         {
             if (!ValidityCheck(numericUpDownBS1.Value.ToString()))
                 return;
-            SendParam(0x3A, numericUpDownBS1.Value/100+10);
+            SendParam(0x3A, numericUpDownBS1.Value);
             writeText("BS1=" + numericUpDownBS1.Value);
         }
 
@@ -595,14 +595,14 @@ namespace MagneticSuspension
         {
             if (!ValidityCheck(numericUpDownBS2.Value.ToString()))
                 return;
-            SendParam(0x3B, numericUpDownBS2.Value/1000);
+            SendParam(0x3B, numericUpDownBS2.Value);
             writeText("BS2=" + numericUpDownBS2.Value);
         }
         private void numericUpDownBS3_ValueChanged(object sender, EventArgs e)
         {
             if (!ValidityCheck(numericUpDownBS3.Value.ToString()))
                 return;
-            SendParam(0x3C, numericUpDownBS3.Value/1000);
+            SendParam(0x3C, numericUpDownBS3.Value);
             writeText("BS3=" + numericUpDownBS3.Value);
         }
 
@@ -610,7 +610,7 @@ namespace MagneticSuspension
         {
             if (!ValidityCheck(numericUpDownBS4.Value.ToString()))
                 return;
-            SendParam(0x3D, numericUpDownBS4.Value/1000);
+            SendParam(0x3D, numericUpDownBS4.Value);
             writeText("BS4=" + numericUpDownBS4.Value);
         }
         private void numericUpDownBS5_ValueChanged(object sender, EventArgs e)
