@@ -1,0 +1,13 @@
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\bin\Release\MagneticSuspension.exe.config
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\Interop.TeeChart.dll
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\AxInterop.TeeChart.dll
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\MagneticSuspension.csproj.ResolveComReference.cache
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\bin\Release\MagneticSuspension.exe
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\bin\Release\MagneticSuspension.pdb
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\bin\Release\Interop.TeeChart.dll
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\bin\Release\AxInterop.TeeChart.dll
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\MagneticSuspension.Properties.Resources.resources
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\MagneticSuspension.csproj.GenerateResource.Cache
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\MagneticSuspension.exe
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\MagneticSuspension.pdb
+F:\visual studio 2015\Projects\MagneticSuspension\MagneticSuspension\obj\Release\MagneticSuspension.mainForm.resources
